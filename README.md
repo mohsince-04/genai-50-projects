@@ -52,7 +52,7 @@ Parses raw OCR text or unstructured invoice text into strict Pydantic models wit
 Extracts key skills, employment timelines, and metrics from resumes to generate a structured candidate summary.
 4. [**Automated Customer Support Intent & Sentiment Router**](https://github.com/mohsince-04/customer-intent-router)
 Categorizes user queries into priority queues with deterministic confidence scores.
-5. **SQL Query Generator from Natural Language**
+5. [**SQL Query Generator from Natural Language**](https://github.com/mohsince-04/natural-sql)
 Translates human language into formatted, syntax-checked SQL queries against target database schemas.
 6. **Code Reviewer & Bug Explainer CLI**
 Analyzes code diffs (`git diff`) and outputs structured AST issue reports and refactoring suggestions.
