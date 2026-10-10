@@ -50,7 +50,7 @@ Summarizes and queries local Markdown folders via terminal flags.
 Parses raw OCR text or unstructured invoice text into strict Pydantic models with automated tax validation.
 3. [**Structured Resume-to-Job Profile Matcher**](https://github.com/mohsince-04/resume-matcher)
 Extracts key skills, employment timelines, and metrics from resumes to generate a structured candidate summary.
-4. **Automated Customer Support Intent & Sentiment Router**
+4. [**Automated Customer Support Intent & Sentiment Router**](https://github.com/mohsince-04/customer-intent-router)
 Categorizes user queries into priority queues with deterministic confidence scores.
 5. **SQL Query Generator from Natural Language**
 Translates human language into formatted, syntax-checked SQL queries against target database schemas.
