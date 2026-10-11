@@ -58,7 +58,7 @@ Translates human language into formatted, syntax-checked SQL queries against tar
 Analyzes code diffs (`git diff`) and outputs structured AST issue reports and refactoring suggestions.
 7. [**Git Commit Message Generator via Pre-Commit Hooks**](https://github.com/mohsince-04/commit-ai)
 Automatically drafts semantic commit messages based on staged code changes.
-8. **Dynamic Quiz & Flashcard Generator**
+8. [**Dynamic Quiz & Flashcard Generator**](https://github.com/mohsince-04/study-flash)
 Generates multiple-choice quizzes from input text with structured answer keys and difficulty tags.
 
 ---
