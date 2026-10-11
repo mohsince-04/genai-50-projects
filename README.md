@@ -54,7 +54,7 @@ Extracts key skills, employment timelines, and metrics from resumes to generate 
 Categorizes user queries into priority queues with deterministic confidence scores.
 5. [**SQL Query Generator from Natural Language**](https://github.com/mohsince-04/natural-sql)
 Translates human language into formatted, syntax-checked SQL queries against target database schemas.
-6. **Code Reviewer & Bug Explainer CLI**
+6. [**Code Reviewer & Bug Explainer CLI**](https://github.com/mohsince-04/git-diff-analyzer)
 Analyzes code diffs (`git diff`) and outputs structured AST issue reports and refactoring suggestions.
 7. **Git Commit Message Generator via Pre-Commit Hooks**
 Automatically drafts semantic commit messages based on staged code changes.
