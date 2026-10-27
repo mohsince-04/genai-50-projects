@@ -116,7 +116,7 @@ Executes structured tool calls to toggle simulated IoT devices based on user int
 *Focus: LangGraph state machines, multi-role agent coordination, cyclic execution, and supervisor routing.*
 
 26. **Production Multi-Agent Content Pipeline *(Foundation Project 4)***
-Multi-agent workflow ($`\text{Analyzer} \rightarrow \text{Writer} \rightarrow \text{Reviewer}`$) with feedback loops.
+Multi-agent workflow ($\text{Analyzer} \rightarrow \text{Writer} \rightarrow \text{Reviewer}$) with feedback loops.
 27. **Autonomous Technical Blog Engine**
 Research agent gathers facts, drafting agent writes content, and editing agent checks formatting in a cyclic workflow.
 28. **Automated Financial Fraud Investigator**
