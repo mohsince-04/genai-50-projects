@@ -67,7 +67,7 @@ Generates multiple-choice quizzes from input text with structured answer keys an
 
 *Focus: Vector databases, chunking strategies, embeddings, and semantic search.*
 
-9. **Document Q&A Bot (Local RAG) *(Foundation Project 2)***
+9. [**Document Q&A Bot (Local RAG) *(Foundation Project 2)***](https://github.com/mohsince-04/local-rag-studio)
 PDF upload application querying local documents using LanceDB/ChromaDB.
 10. **GitHub Repository Codebase Search Engine**
 Indexes repository source files with AST-aware chunking for semantic code navigation.
